@@ -207,7 +207,7 @@ export const projects = [
     description:
       "Developed a MERN Stack application that allows users to search ,write review their favorite movies on demand and create movie. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://private-user-images.githubusercontent.com/121212398/320191401-85ecaaa3-dc58-4d52-a5f1-cedeebb74cbb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzOTA3OTIsIm5iZiI6MTcxMjM5MDQ5MiwicGF0aCI6Ii8xMjEyMTIzOTgvMzIwMTkxNDAxLTg1ZWNhYWEzLWRjNTgtNGQ1Mi1hNWYxLWNlZGVlYmI3NGNiYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNlQwODAxMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NTAwMWI1YWE4MzEwODAwN2MyMmYzZGY2M2E5Yjc2ZjBiNjIzNDc3MzQwMWQ5ZDY2M2I2NmY3NDlkNGI0ZmY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Yeqm0xqrZDePHxVDj8lRUHQNnp9UdYnsuFQBX2O8W0c",
+      "movie.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/sneh1604/Moviex",
@@ -220,7 +220,7 @@ export const projects = [
     description:
       "A php webapp application for managing all types of blood report. both user- admin side with view data and real time report viewing. ",
     image:
-      "https://private-user-images.githubusercontent.com/121212398/320195909-592dd6de-6040-462c-8b5e-7f8692f40901.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzOTY0MzksIm5iZiI6MTcxMjM5NjEzOSwicGF0aCI6Ii8xMjEyMTIzOTgvMzIwMTk1OTA5LTU5MmRkNmRlLTYwNDAtNDYyYy04YjVlLTdmODY5MmY0MDkwMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNlQwOTM1MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNjMyYzNiZDMxMjU5MDU0ZmQxOGNmOWE2YjUzNDZmZDAxMmRjZTE4NmJjMTFlMWQ0OWE5OTY0NTIyOGQ4NjNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rd6tW_jQJmAhT1YG1M31qdEMNsymlzm9wVtbZocAFEk",
+      "mylabvers.png",
     tags: ["PHP", "MYSQL", "Axios", "HTML","CSS"],
     category: "web app",
     github: "https://github.com/sneh1604/MyLabVerse",
@@ -233,7 +233,7 @@ export const projects = [
     description:
       "A Movie app made with Reactjs and RestApi. In this we can search any movie globally and by clicking that we can see that movie detail like cast ,detail,trailer and many more..",
     image:
-      "https://private-user-images.githubusercontent.com/121212398/320197047-642aae0d-04ac-4581-89cc-d722fada753b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzOTc3NTUsIm5iZiI6MTcxMjM5NzQ1NSwicGF0aCI6Ii8xMjEyMTIzOTgvMzIwMTk3MDQ3LTY0MmFhZTBkLTA0YWMtNDU4MS04OWNjLWQ3MjJmYWRhNzUzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNlQwOTU3MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOTYyMTE2ZjA5ODM2YWVmZTI3YWMzYTMwOTdiY2QyMDZmNWYxNzI2Y2NhMWFiMDg2N2MzYTM1ZGEzMWEwOGY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Jq37QFnkLaevwP_5Dout-Tv_dLQshya_0NGUmV2qd7g",
+      "moviehub.png",
     tags: ["Reactjs", "RestApi", "Css", "Javascript"],
     category: "Web app",
     github: "https://github.com/sneh1604/moviehub",
@@ -246,7 +246,7 @@ export const projects = [
     description:
       " A Todo Web App made with MERN stack.It has basic funtion to add task and when completed we can mark it done and delete it",
     image:
-      "https://private-user-images.githubusercontent.com/121212398/320197646-bed0b3d1-6288-471a-9d46-2d84e4777fa7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzOTg1NTUsIm5iZiI6MTcxMjM5ODI1NSwicGF0aCI6Ii8xMjEyMTIzOTgvMzIwMTk3NjQ2LWJlZDBiM2QxLTYyODgtNDcxYS05ZDQ2LTJkODRlNDc3N2ZhNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNlQxMDEwNTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYjAwMmVmNjQwMWUyNzNmMWMyY2I2NWU1Y2NkN2FlNjcyYmI5MDZlNDViMTRmYWJjNWM4MGRmYjNiMWMyYzc5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GheGFkAYqM6yld-82bY1w3m4c9Zi1XmH8jGKf4RjPvQ",
+      "todo.png",
     tags: ["Reactjs", "Nodejs", "Mongodb"],
     category: "web app",
     github: "https://github.com/sneh1604/todolist",
