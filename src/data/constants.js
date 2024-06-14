@@ -167,6 +167,20 @@ export const experiences = [
     ],
     link: "https://datascienceclub.charusat.ac.in/",
     },
+    {
+      id: 1,
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkJThg9V-GNRAdIA-3m05oXDa4CFNKix8Sw&s",
+      role: "Reactjs Intern",
+      company: "Vinculum Solution Pvt. Ltd.",
+      date: "May 2024 - July 2024",
+      desc: "Working on various project related to company.",
+      skills: [
+        "Reactjs",
+        "Redux",
+        "Webpack",
+      ],
+      link: "https://www.vinculumgroup.com/",
+      },
 ];
 
 export const education = [
@@ -214,7 +228,7 @@ export const projects = [
     webapp: "#",
   },
   {
-    id: 6,
+    id: 1,
     title: "MyLabVerse -LIMS",
     date: "March 2024",
     description:
@@ -227,7 +241,7 @@ export const projects = [
     webapp: "#",
   },
   {
-    id: 7,
+    id: 2,
     title: "MovieHub",
     date: "April 2024",
     description:
@@ -240,7 +254,7 @@ export const projects = [
     webapp: "https://moviehub-bice.vercel.app/",
   },
   {
-    id: 5,
+    id: 3,
     title: "Todo Web App",
     date: "Dec 2023",
     description:
@@ -250,6 +264,19 @@ export const projects = [
     tags: ["Reactjs", "Nodejs", "Mongodb"],
     category: "web app",
     github: "https://github.com/sneh1604/todolist",
+    webapp: "#",
+  },
+  {
+    id: 4,
+    title: "BuzzChat",
+    date: "Apr 2024",
+    description:
+      " BuzzChat is real time chatapp which is done using MERN Stack and Socket.io and FireBase for google Authentication",
+    image:
+      "buzzchat.png",
+    tags: ["Reactjs", "Nodejs", "Mongodb","Socket.io","Firebase"],
+    category: "web app",
+    github: "https://github.com/sneh1604/BuzzChat--Chatapp",
     webapp: "#",
   },
 ];
